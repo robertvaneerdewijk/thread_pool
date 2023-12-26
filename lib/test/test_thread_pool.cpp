@@ -1,11 +1,3 @@
-//
-// Created by aq on 20-12-23.
-//
-
-//
-// Created by aq on 08-04-20.
-//
-
 #include <algorithm>
 #include <iostream>
 #include <limits>

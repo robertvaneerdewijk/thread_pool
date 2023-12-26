@@ -1,6 +1,3 @@
-cmake_minimum_required(VERSION 3.10)
-project(thread_pool)
-
 file(GLOB_RECURSE TEST_SOURCES "test/test_*.cpp")
 
 foreach(TEST_CPP ${TEST_SOURCES})
